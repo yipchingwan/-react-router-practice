@@ -9,3 +9,6 @@ export default class AboutPage extends Component {
     )
   }
 }
+
+//equalto
+//const AboutPage = ()=> <div>about page</div>
